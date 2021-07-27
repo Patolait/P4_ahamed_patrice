@@ -829,6 +829,26 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.foot_link{
+    text-align: center;
+    width: 100%;
+}
+
+.foot_link_2{
+    list-style: none;
+    padding-left: 0;
+}
+
+.citation{
+    font-size: 2rem;
+    font-style: italic;
+    color: rgba(0, 0, 0, .7);
+}
+
+.auteur{
+    color: rgba(0, 0, 0, .7);
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
