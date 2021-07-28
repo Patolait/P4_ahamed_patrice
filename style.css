@@ -788,12 +788,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #b22222;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #740B0B!important;
     color: #FFFFFF!important;
 }
 
@@ -869,6 +869,15 @@ h4 {
 
 .color_text{
     color:#333333 !important;
+}
+
+.space{
+    margin-top: 20px;
+}
+
+.center-box{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 1024px) {
