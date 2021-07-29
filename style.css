@@ -827,11 +827,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere_compressed.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation_compressed.jpg");
 }
 
 .foot_link{
@@ -885,6 +885,15 @@ h4 {
     background-color: rgba(51,51,51,0.7);
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.color-white{
+    color:white !important;
+}
+
+button{
+    background: none;
+    border: 0;
 }
 
 @media (max-width: 1024px) {
